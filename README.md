@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! I'm Subhojit Karmakar...
 
-<!--
-**subhojit26/subhojit26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### aboutMe.js
 
-Here are some ideas to get you started:
+```javascript
+const subho = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS],
+    frameworks: [ReactJs, NextJs]
+    askMeAbout: ["web dev", "tech", "ml", "music", "coffee", "video games"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize","tailwind"]
+        },
+        backEnd: {
+            js: ["firebase","mongodb","expressJs"]
+        }        
+    }
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Check out my repos ⬇️  
+</p>
