@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Subhojit Karmakar...
 
-### aboutMe.js
-
 ```javascript
 const subho = {
     pronouns: "he" | "him",
