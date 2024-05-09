@@ -7,5 +7,5 @@
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats">
-    <img src="" alt="My GitHub stats">
+    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/hadouken-pixelated.gif" alt="My GitHub stats">
 </div>
