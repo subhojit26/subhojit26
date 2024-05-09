@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="300" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="380" height="150">
     <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/hadouken-pixelated.gif" alt="My GitHub stats" width="300" height="150">
-    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/uRYfea.gif" alt="My GitHub stats" width="300" height="150">
+    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/f39fb29810b164c15c8d82e51d54f3c9.gif" alt="My GitHub stats" width="300" height="150">
 </div>
