@@ -6,9 +6,16 @@
 </div>
 
 <div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=subhojit26&theme=black-ice)](https://git.io/streak-stats)
+    
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="330" height="140" style="margin-right: 100px;">
     <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/the-loveable-zoo-cat.gif" alt="My GitHub stats" width="220" height="180">
 </div>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
