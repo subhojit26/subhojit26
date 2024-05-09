@@ -5,8 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%33C1FF&size=30&center=true&vCenter=true&width=450&lines=I'm+Subhojit+Karmakar;Info+Tech+Student;Frontend+Developer;Power+Metal+Lover+%3C3" alt="Information Technology Student, Indian front-end developer, Power Metal lover"></a>
 </div>
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="330" height="150">
-    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/hadouken-pixelated.gif" alt="My GitHub stats" width="300" height="150">
-    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/883a4242e7d32f894820f97cbf583a2e.gif" alt="My GitHub stats" width="180" height="130">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats" width="330" height="140" style="margin-right: 100px;">
+    <img src="https://github.com/subhojit26/subhojit26/blob/main/assets/the-loveable-zoo-cat.gif" alt="My GitHub stats" width="220" height="180">
 </div>
