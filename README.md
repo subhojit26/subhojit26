@@ -5,4 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%33C1FF&size=30&center=true&vCenter=true&width=450&lines=I'm+Subhojit+Karmakar;Info+Tech+Student;Frontend+Developer;Power+Metal+Lover+%3C3" alt="Information Technology Student, Indian front-end developer, Power Metal lover"></a>
 </div>
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=subhojit26&show_icons=true&theme=tokyonight" alt="My GitHub stats">
+</div>
